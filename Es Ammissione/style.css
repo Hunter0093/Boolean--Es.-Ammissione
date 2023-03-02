@@ -1,0 +1,66 @@
+body{
+    background-image: url(IMG/background.jpg) ;
+    background-size: cover;
+    color: white;  
+}
+
+
+.container{
+    width: 1000px;
+    height: 1000px;
+    margin: auto;
+    /* background: black;
+    opacity: 0.2; */
+}
+
+.logo{
+    width: 250px;
+}
+
+nav{
+    width: 1000px;
+    height: 50px;
+    background: rgb(39, 248, 39);
+    text-align: center;
+}
+
+header{
+    text-align: center;
+}
+
+.titolo{
+    color: rgb(39, 248, 39) ;
+}
+
+/* Carica residua (3 item)*/
+#rettangolo1{
+    
+    width: 300px;
+    height: 30px;
+    background: lightsalmon;     
+}
+
+#rettangolo2{
+    
+    width: 600px;
+    height: 30px;
+    background: green;     
+}
+
+#rettangolo3{
+    
+    width: 150px;
+    height: 30px;
+    background: red;     
+}
+
+
+.monopattino{
+    font-size: 25px;
+}
+
+#name-footer{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(39, 248, 39);
+}
